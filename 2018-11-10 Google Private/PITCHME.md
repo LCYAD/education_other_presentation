@@ -1,5 +1,0 @@
-# Python Fundamental Course
-
----
-
-# Variable
